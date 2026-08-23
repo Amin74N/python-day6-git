@@ -1,2 +1,2 @@
-# Day07---PythonBasics
+# Day06---PythonBasics
 everything I learned in day 6
